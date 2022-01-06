@@ -1,5 +1,4 @@
 ### 👋 https://marzooqa.ca/connect 
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the private repos is where it's at 👀
 
 <!--
 **zooqsterrhq/zooqsterrhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
